@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "銀河鉄道",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-04-01T02:32:00.854839Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "銀河鉄道 999 (THE GALAXY EXPRESS 999)",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/01_銀河鉄道_999_(THE_GALAXY_EXPRESS_999)_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "銀河鉄道",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_銀河鉄道_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "銀河鉄道 999 (The Galaxy Express 999)",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/03_銀河鉄道_999_(The_Galaxy_Express_999)_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "銀河鉄道 999",
+      "artist": "Isao Sasaki & Suginami Jidou Gasshoudan",
+      "has_synced": false,
+      "path": "select/04_銀河鉄道_999_Isao_Sasaki_&_Suginami_Jidou_Gasshoudan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "銀河鉄道",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_銀河鉄道_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
